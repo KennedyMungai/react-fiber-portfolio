@@ -10,7 +10,7 @@ const Section = styled.div`
 
 const Hero = () => {
   return (
-    <div>Hero</div>
+    <Section>Hero</Section>
   )
 }
 
