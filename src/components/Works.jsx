@@ -9,7 +9,7 @@ const Section = styled.div`
 
 const Works = () => {
   return (
-    <Section    >Works</Section>
+    <Section>Works</Section>
   )
 }
 
