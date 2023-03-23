@@ -14,12 +14,12 @@ const Container = styled.div`
 function App()
 {
   return (
-    <div>
+    <Container>
       <Hero />
       <Who />
       <Works />
       <Contacts />
-    </div>
+    </Container>
   );
 }
 
