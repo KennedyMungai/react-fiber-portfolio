@@ -3,12 +3,12 @@ import styled from 'styled-components'
 
 const Section = styled.div`
   height: 100vh;
-  background-color: rebeccapurple;
+  background-color: #c5b206;
 `
 
 const Works = () => {
   return (
-    <Section>Works</Section>
+    <Section    >Works</Section>
   )
 }
 
