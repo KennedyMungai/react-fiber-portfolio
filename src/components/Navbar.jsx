@@ -23,7 +23,8 @@ const Navbar = () => {
   return (
     <Section>
         <Container>
-            Navbar
+            <Links></Links>
+            <Icons></Icons>
         </Container>
     </Section>
   )
