@@ -23,7 +23,9 @@ const Navbar = () => {
   return (
     <Section>
         <Container>
-            <Links></Links>
+            <Links>
+                <Logo src="./img/logo.png" />
+            </Links>
             <Icons></Icons>
         </Container>
     </Section>
