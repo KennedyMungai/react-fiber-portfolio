@@ -15,7 +15,7 @@ const Links = styled.div`
 
 `
 
-const Icons = styled.img`
+const Icons = styled.div`
 
 `
 
