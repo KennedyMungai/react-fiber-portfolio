@@ -34,6 +34,7 @@ const Logo = styled.div`
 const List = styled.ul`
   display: flex;
   gap: 3rem;
+  list-style: none;
 `
 
 const ListItem = styled.li`
