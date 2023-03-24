@@ -15,7 +15,11 @@ const Links = styled.div`
 
 `
 
-const Icons = styled.div`
+const Icons = styled.img`
+
+`
+
+const Icon = styled.img`
 
 `
 
@@ -23,19 +27,15 @@ const Logo = styled.div`
 
 `
 
-const List = styled.div`
+const List = styled.ul`
 
 `
 
-const ListItem = styled.div`
+const ListItem = styled.li`
 
 `
 
-const Icon = styled.div`
-
-`
-
-const Button = styled.div`
+const Button = styled.button`
 
 `
 
