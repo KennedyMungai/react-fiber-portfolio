@@ -7,6 +7,7 @@ import Works from './components/Works';
 
 
 const Container = styled.div`
+  color: white;
   height: 100vh;
   background-color: rebeccapurple;
   scroll-snap-type: y mandatory;
