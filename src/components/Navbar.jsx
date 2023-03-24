@@ -19,6 +19,26 @@ const Icons = styled.div`
 
 `
 
+const Logo = styled.div`
+
+`
+
+const List = styled.div`
+
+`
+
+const ListItem = styled.div`
+
+`
+
+const Icon = styled.div`
+
+`
+
+const Button = styled.div`
+
+`
+
 const Navbar = () => {
   return (
     <Section>
