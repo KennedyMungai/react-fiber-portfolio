@@ -8,7 +8,7 @@ import Works from './components/Works';
 
 const Container = styled.div`
   color: white;
-  background: url("../public/img/bg.jpeg") ;
+  background-image: url("./img/bg.jpeg");
   height: 100vh;
   scroll-snap-type: y mandatory;
   scroll-behavior: smooth;
