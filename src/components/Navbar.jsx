@@ -34,6 +34,7 @@ const Navbar = () => {
             </Links>
             <Icons>
               <Icon src="./img/search.png" />
+              <Button>Hire Now!</Button>
             </Icons>
         </Container>
     </Section>
