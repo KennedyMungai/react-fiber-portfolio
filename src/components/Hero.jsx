@@ -9,7 +9,9 @@ const Section = styled.div`
 
 const Hero = () => {
   return (
-    <Navbar />
+    <Section>
+      <Navbar />
+    </Section>
   )
 }
 
