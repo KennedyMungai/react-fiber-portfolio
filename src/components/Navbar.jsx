@@ -27,7 +27,8 @@ const Icons = styled.div`
 `
 
 const Icon = styled.img`
-
+  width: 1rem;
+  cursor: pointer;
 `
 
 const Logo = styled.div`
