@@ -14,7 +14,9 @@ const Container = styled.div`
 `
 
 const Links = styled.div`
-
+  display: flex;
+  align-items: center;
+  gap: 3rem;
 `
 
 const Icons = styled.div`
