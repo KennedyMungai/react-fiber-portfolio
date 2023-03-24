@@ -11,6 +11,16 @@ const Container = styled.div`
   background-color: rebeccapurple;
 `
 
+const Links = styled.div`
+  width: 1400px;
+  background-color: rebeccapurple;
+`
+
+const Icons = styled.div`
+  width: 1400px;
+  background-color: rebeccapurple;
+`
+
 const Navbar = () => {
   return (
     <Section>
