@@ -32,7 +32,9 @@ const Navbar = () => {
                   <ListItem>Contact</ListItem>
                 </List>
             </Links>
-            <Icons></Icons>
+            <Icons>
+              <Icon src="./img/search.png" />
+            </Icons>
         </Container>
     </Section>
   )
