@@ -5,6 +5,10 @@ const Section = styled.div`
   
 `
 
+const Container = styled.div`
+  
+`
+
 const Navbar = () => {
   return (
     <div>Navbar</div>
