@@ -21,7 +21,9 @@ const Links = styled.div`
 `
 
 const Icons = styled.div`
-
+  display: flex;
+  align-items: center;
+  gap: 5rem;
 `
 
 const Icon = styled.img`
