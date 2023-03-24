@@ -13,7 +13,9 @@ const Container = styled.div`
 const Navbar = () => {
   return (
     <Section>
-        <Container>Navbar</Container>
+        <Container>
+            Navbar
+        </Container>
     </Section>
   )
 }
